@@ -1,7 +1,27 @@
-Brandenburg Tor Photoreal V3
+Brandenburg Tor Photoreal V4
 
-The two user-supplied photographs were used as visual references only.
-High-detail horse geometry: Riding Horse Trotting from Farm and Working Animals HD, CC0 1.0 Universal, 3DAssets.dev.
+MATERIAL SOURCES
+The v4 albedo source textures were generated with OpenAI's built-in image generation tool and converted locally into a 2K PBR atlas (albedo, roughness, tangent-space normal, and metallic). The generated sources were color- and weathering-calibrated against the public-domain Brandenburg Gate photographs listed below. No perspective photo projection is embedded in the model.
+
+PUBLIC-DOMAIN VISUAL REFERENCES
+Schlaier, "Brandenburger Tor mit Quadriga.jpg", Wikimedia Commons, public-domain dedication:
+https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_mit_Quadriga.jpg
+
+Malis, "Brandenburger Tor in Berlin.jpg", Wikimedia Commons, public-domain dedication:
+https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_in_Berlin.jpg
+
+The two user-supplied photographs were also used as visual references only.
+
+3D ASSETS AND METRIC REFERENCE
+High-detail horse geometry: "Riding Horse Trotting" from Farm and Working Animals HD, CC0 1.0 Universal, 3DAssets.dev:
 https://3dassets.dev/packs/farm-and-working-animals-hd
-Metric/detail reference: Klotzkette/isometric-berlin, MIT License.
+
+Architectural metric/detail reference: Klotzkette/isometric-berlin, MIT License:
 https://github.com/Klotzkette/isometric-berlin
+
+V4 CHANGES
+- Photo-informed 2K four-channel PBR atlas for sandstone and patinated bronze.
+- Metric wrapped texture coordinates to avoid stretching on long facade elements.
+- Layered bronze normal response: atlas relief plus shader-scale cast-metal micro-pitting.
+- Outer horses widened and yawed 11.7 degrees outward; inner pair yawed 2.3 degrees.
+- New frontal facade and three-quarter quadriga reference renders.
