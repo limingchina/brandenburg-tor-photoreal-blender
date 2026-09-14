@@ -2,17 +2,17 @@
 
 A reference-guided Blender scene of the Brandenburg Gate and its quadriga, with a shared PBR texture atlas for the architectural stone and patinated bronze.
 
-![Full gate preview](scene/brandenburg_tor_photoreal_v4_preview.png)
+![Full gate preview](scene/brandenburg_tor_photoreal_v5_preview.png)
 
-![Quadriga close-up](scene/brandenburg_tor_photoreal_v4_quadriga_closeup.png)
+![Quadriga close-up](scene/brandenburg_tor_photoreal_v5_quadriga_closeup.png)
 
-![Quadriga three-quarter view](scene/brandenburg_tor_photoreal_v4_quadriga_profile.png)
+![Quadriga three-quarter view](scene/brandenburg_tor_photoreal_v5_quadriga_profile.png)
 
 ## Main file
 
-Open `scene/brandenburg_tor_photoreal_v4.blend` in Blender 5.2 or newer. The v4 atlas images are packed into the `.blend`; copies are also included in `textures/` for inspection or reuse.
+Open `scene/brandenburg_tor_photoreal_v5.blend` in Blender 5.2 or newer. The v4 atlas images are packed into the v5 `.blend`; copies are also included in `textures/` for inspection or reuse.
 
-The v4 scene adds a photo-informed 2K four-channel PBR atlas, metric wrapped texture coordinates, and a dedicated cast-bronze micro-pitting bump layer. The outer horses are widened and yawed outward to match the fanned formation in the frontal references. It retains the four linked high-detail horse meshes, harnesses and reins, modeled chariot, layered drapery and wing feathers for Victoria, and wreath/cross/eagle standard.
+The v4 scene adds a photo-informed 2K four-channel PBR atlas, metric wrapped texture coordinates, and a dedicated cast-bronze micro-pitting bump layer. V5 fixes the imported quaternion-root issue and applies a verified 15.5-degree outward yaw to the outer horses, with harness endpoints following the new pose. Each horse now also has recessed oxidized eyes, sculpted eyelid rims, tapered outer-ear shells, and darker inset ear surfaces. It retains the four linked high-detail horse meshes, modeled chariot, layered drapery and wing feathers for Victoria, and wreath/cross/eagle standard.
 
 ## Repository layout
 

@@ -1,4 +1,9 @@
-Brandenburg Tor Photoreal V4
+Brandenburg Tor Photoreal V5
+
+V5 POSE AND FACIAL REVISION
+The outer horses are positioned at +/-2.02 m and use a verified evaluated 15.5-degree outward yaw after comparison with the user's initial frontal quadriga photograph. The inner pair remain nearly frontal at +/-2 degrees. Bridle, breast-collar, rein, and trace curve endpoints follow the revised outer poses.
+
+Each horse has two recessed dark oxidized eyes seated inside small bronze eyelid rims. The ears are supplemented with tapered, beveled outer shells and nearly flush darker inner-ear inserts; all facial-detail objects are parented to their respective horse roots.
 
 MATERIAL SOURCES
 The v4 albedo source textures were generated with OpenAI's built-in image generation tool and converted locally into a 2K PBR atlas (albedo, roughness, tangent-space normal, and metallic). The generated sources were color- and weathering-calibrated against the public-domain Brandenburg Gate photographs listed below. No perspective photo projection is embedded in the model.
@@ -19,9 +24,10 @@ https://3dassets.dev/packs/farm-and-working-animals-hd
 Architectural metric/detail reference: Klotzkette/isometric-berlin, MIT License:
 https://github.com/Klotzkette/isometric-berlin
 
-V4 CHANGES
+V4/V5 CHANGES
 - Photo-informed 2K four-channel PBR atlas for sandstone and patinated bronze.
 - Metric wrapped texture coordinates to avoid stretching on long facade elements.
 - Layered bronze normal response: atlas relief plus shader-scale cast-metal micro-pitting.
-- Outer horses widened and yawed 11.7 degrees outward; inner pair yawed 2.3 degrees.
+- Imported quaternion-root issue corrected; outer horses are truly yawed 15.5 degrees outward and inner horses 2 degrees.
+- Eight recessed eyes, eight eyelid rims, and refined two-layer ear geometry.
 - New frontal facade and three-quarter quadriga reference renders.
