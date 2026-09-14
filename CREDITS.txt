@@ -1,0 +1,7 @@
+Brandenburg Tor Photoreal V3
+
+The two user-supplied photographs were used as visual references only.
+High-detail horse geometry: Riding Horse Trotting from Farm and Working Animals HD, CC0 1.0 Universal, 3DAssets.dev.
+https://3dassets.dev/packs/farm-and-working-animals-hd
+Metric/detail reference: Klotzkette/isometric-berlin, MIT License.
+https://github.com/Klotzkette/isometric-berlin

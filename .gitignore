@@ -1,0 +1,15 @@
+# Blender autosaves and local state
+*.blend1
+*.blend2
+*.blend3
+*.tmp
+\.thumbnails/
+
+# Local render/cache output
+generated/
+cache/
+__pycache__/
+
+# Invalid or temporary downloads
+*.part
+*.crdownload
