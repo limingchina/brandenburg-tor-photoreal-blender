@@ -45,5 +45,6 @@ Fovea, "Brandenburg Gate, Germany", a CyArk/Open Heritage 3D-derived scan,
 Sketchfab, CC BY 4.0:
 https://sketchfab.com/3d-models/brandenburg-gate-germany-1df210f3fec941768ceb50c375856c10
 The official download requires Sketchfab sign-in. The separately listed raw
-Open Heritage 3D dataset is CC BY-NC-SA and approximately 45 GB; its license
-does not automatically apply to or supersede the Sketchfab listing.
+Open Heritage 3D dataset is CC BY-NC-SA and approximately 45 GB. The differing
+source and Sketchfab listing terms should be clarified before redistributing
+the Fovea-derived model.
