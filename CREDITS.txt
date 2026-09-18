@@ -31,3 +31,19 @@ V4/V5 CHANGES
 - Imported quaternion-root issue corrected; outer horses are truly yawed 15.5 degrees outward and inner horses 2 degrees.
 - Eight recessed eyes, eight eyelid rims, and refined two-layer ear geometry.
 - New frontal facade and three-quarter quadriga reference renders.
+
+V6 SCREENSHOT-GUIDED SCULPT REVISION
+The user's front, side, and rear Meshy viewer screenshots were used solely to
+interpret silhouette and relative forms. No Meshy mesh, texture, or screenshot
+pixels were extracted or redistributed. The v6 scene adds downward folded
+feathered wings, wider eight-spoke chariot wheels, a bowed chariot front,
+individually lifted outer forelegs, shorter ear shells, frontal bounce light,
+and a rear camera. These changes are procedural approximations, not a scan.
+
+POTENTIAL HIGHER-FIDELITY REPLACEMENT (NOT USED OR INCLUDED)
+Fovea, "Brandenburg Gate, Germany", a CyArk/Open Heritage 3D-derived scan,
+Sketchfab, CC BY 4.0:
+https://sketchfab.com/3d-models/brandenburg-gate-germany-1df210f3fec941768ceb50c375856c10
+The official download requires Sketchfab sign-in. The separately listed raw
+Open Heritage 3D dataset is CC BY-NC-SA and approximately 45 GB; its license
+does not automatically apply to or supersede the Sketchfab listing.
